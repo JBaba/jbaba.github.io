@@ -1,20 +1,24 @@
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em,
-img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, 
-dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    outline: 0;
-    vertical-align: baseline;
-    background: transparent;
-}
 
-.s9inlineContent, .s9bg {
+.s3screenWidthBackground {
     position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
+}
+
+.s9inlineContent, .s9bg{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.s9bg {
+    border: 1px solid rgba(154, 154, 154, 0.46);
+    background-color: rgba(248, 248, 248, 1);
+    border-radius: 5px;
 }
 
 body {
