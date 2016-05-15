@@ -1,0 +1,120 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em,
+img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, 
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.s9inlineContent, .s9bg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+body {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    display: block;
+}
+
+.color_19 {
+    color: #72AB00;
+}
+
+.s1 {
+    word-wrap: break-word;
+}
+
+.s1 h3 {
+    margin: 0;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.s1 h5 {
+    margin: 0;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.s1 p {
+    margin: 0;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+h5 {
+    display: block;
+    font-size: 0.83em;
+    -webkit-margin-before: 1.67em;
+    -webkit-margin-after: 1.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+
+
+.font_3 {
+    font: normal normal normal 70px/1.1em helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;
+    color: #494949;
+}
+
+.font_5 {
+    font: normal normal normal 25px/1.2em helvetica-w01-light,helvetica-w02-light,sans-serif;
+    color: #494949;
+}
+
+.font_7 {
+    font: normal normal normal 17px/1.3em helvetica-w01-light,helvetica-w02-light,sans-serif;
+    color: #494949;
+}
+
+.font_8 {
+    font: normal normal normal 15px/1.3em helvetica-w01-light,helvetica-w02-light,sans-serif;
+    color: #494949;
+}
+
+
+.s10img {
+    overflow: hidden;
+    border-radius: calc(0px - 1px);
+}
+
+.s10link {
+    display: block;
+    border-radius: 0;
+    background-color: rgba(154, 154, 154, 0.46);
+    border: 1px solid rgba(154, 154, 154, 0.46);
+    overflow: hidden;
+    height: 100%;
+}
