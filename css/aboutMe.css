@@ -1,4 +1,10 @@
 
+.SITE_ROOT {
+    min-height: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+
 .s3screenWidthBackground {
     position: absolute;
     top: 0;
