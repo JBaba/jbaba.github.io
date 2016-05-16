@@ -92,7 +92,10 @@ p {
     -webkit-margin-end: 0px;
 }
 
-
+.font_2 {
+    font: normal normal normal 44px/1.1em helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;
+    color: #72AB00;
+}
 
 .font_3 {
     font: normal normal normal 70px/1.1em helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;
